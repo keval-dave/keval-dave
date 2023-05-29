@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Keval</h1>
+<h3 align="center">A software engineer from India</h3>
 
-<!--
-**keval-dave/keval-dave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 Ask me about
+- Backend web development (Java, Python, C/C++, Ruby)
+- Docker
+- Kubernetes
+- Kafka
+- Cloud Architecture
+- Design Patterns
+- Database (Elasticsearch, Mongo, Arango, JanusGraph, Redis)
 
-Here are some ideas to get you started:
+## 📅 Hobbies
+- Solve programming problems at Codeforces, LeetCode
+- Play cricket
+- Play videogames
+- Watch movies and TV shows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Current project
+- 
+
+## 📚 Learning
+- React.js   
+- Kafka internals 
