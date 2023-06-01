@@ -1,5 +1,5 @@
 <h1>Hi 👋, Nice to see you.</h1>
-<p>Welcome to my page! </br> I'm Keval, Senior backend developer working at <a href="https://ontic.co">Ontic</a>. Currently exploring <a href="https://roadmap.sh/backend">backend roadmap</a></p>
+<p>Welcome to my page! </br> I'm Keval, Senior backend developer working at <a href="https://ontic.co">Ontic</a>. Currently exploring <a href="https://roadmap.sh/backend">backend roadmap</a>.</p>
 <h3>Things I work with</h3>
 <p>
   <!--- Languages -->
