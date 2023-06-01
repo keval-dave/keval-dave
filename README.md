@@ -52,7 +52,8 @@
 -------
 
 ## 💻 Current project
-- 
+- Completing backend roadmap
+- Contribution in [pytorch](https://github.com/pytorch/pytorch)     
 
 -------
 
