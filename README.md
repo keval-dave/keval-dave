@@ -58,5 +58,5 @@
 -------
 
 ## 📚 Learning
-- Artificial intelligence   
+- Learning [python for scripting](https://automatetheboringstuff.com/)   
 - Kafka internals 
